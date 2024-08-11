@@ -1,6 +1,6 @@
 - Hi, I'm dininaylul
 - I'm interested in Fullstack Web Development
-- I'm currently learning Fullstack Web Development and Front-End Web Development Learning Path
+- I'm currently learning & fulltime working as Fullstack Web Developer
 - How to reach me on 
 
 <a href="https://www.instagram.com/dininaylul/" target="_blank">Instagram</a>, 
